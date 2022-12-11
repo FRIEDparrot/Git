@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sites" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/computer_internship_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pattern_identification_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pattern_identification_homework/Homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pattern_identification_homework/Homework/KNN_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pattern_identification_homework/模式识别与分析课程PPT" vcs="Git" />
+  </component>
+</project>
